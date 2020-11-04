@@ -3,6 +3,11 @@ Script which helps transfer liked songs from Google Play Music to Spotify.
 
 This scripet based on two libraries - gmusicapi and spotipy.
 
+Links:
+[gmusicapi](https://unofficial-google-music-api.readthedocs.io/en/latest/index.html)
+[Spotipy](https://spotipy.readthedocs.io/en/2.16.1/#) 
+[Spotify Web API](https://developer.spotify.com/documentation/web-api/) 
+
 *****
 
 Before running the script:
@@ -34,3 +39,4 @@ Visit the following url:
 
 
 PS: Я не программист и не пишу комерческий код, но этот скрипт работает. С его помощью я перенес все свои 500 треков из GPM в Spotify, в то время как онлайн сервисы предлагали перенести только 100 треков бесплатно.
+
